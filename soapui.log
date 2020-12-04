@@ -1,0 +1,22 @@
+2020-12-04 17:25:18,789 WARN  [SoapUI] Missing folder [C:\Users\MarakathamaniSundara\Desktop\FullStalk_SDET\REST\ext] for external libraries
+2020-12-04 17:25:19,291 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\MarakathamaniSundara\soapui-settings.xml]
+2020-12-04 17:25:23,632 INFO  [WsdlProject] Loaded project from [file:/C:/Users/MarakathamaniSundara/Desktop/FullStalk_SDET/REST/RESTAssignment-soapui-project.xml]
+2020-12-04 17:25:25,036 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2020-12-04 17:25:25,663 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [RESTAssignment]
+2020-12-04 17:25:25,668 INFO  [SoapUITestCaseRunner] Running Project [RESTAssignment], runType = SEQUENTIAL
+2020-12-04 17:25:25,838 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2020-12-04 17:25:25,871 INFO  [SoapUITestCaseRunner] running step [GETToken]
+2020-12-04 17:25:27,890 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-12-04 17:25:44,574 INFO  [log] Parentid is 0
+2020-12-04 17:25:44,831 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-04 17:25:44,859 INFO  [SoapUITestCaseRunner] running step [Login]
+2020-12-04 17:25:45,210 INFO  [SoapUITestCaseRunner] Assertion [Response SLA] has status VALID
+2020-12-04 17:25:45,211 INFO  [SoapUITestCaseRunner] running step [GETProduct]
+2020-12-04 17:25:50,252 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2020-12-04 17:25:50,261 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2020-12-04 17:25:50,272 INFO  [SoapUITestCaseRunner] running step [ParentLevel]
+2020-12-04 17:25:57,821 INFO  [log] Parentid is 0
+2020-12-04 17:25:57,822 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status UNKNOWN
+2020-12-04 17:25:57,824 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-04 17:25:57,861 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 29755ms, status: FINISHED
+2020-12-04 17:25:57,863 INFO  [SoapUITestCaseRunner] Project [RESTAssignment] finished with status [FINISHED] in 32179ms
